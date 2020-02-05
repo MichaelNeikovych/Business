@@ -1,0 +1,96 @@
+@media (max-width: 800px) {
+    .container {
+        max-width: 800px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .logo {
+        display: block;
+        float: none;
+    }
+    .logo-img {
+        width: 25px;
+        height: 24px;
+    }
+    .logo__wrap {
+        text-align: center;
+    }
+    .nav {
+        float: none;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .nav_box {
+        margin-bottom: 5px;
+    }
+    .nav_items {
+        margin-bottom: 10px;
+    }
+    .services {
+        margin-bottom: 10px;
+    }
+    .services_description_block {
+        margin: 0 5px 40px 15px;
+    }
+    .services_title_wrap {
+        margin: 30px 0 20px;
+    }
+    .services_title {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .services_text {
+        color: #394b50;
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .about_us {
+        min-height: 350px;
+    }
+    .about_us-description {
+        margin-left: calc(50% + 15px);
+        transform: translateY(10px)
+    }
+    .about_us-title {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .about_us-text {
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+    .about_us-button {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+
+    .pricing_title, .how_title, .client_title, .newsletter_title {
+        font-size: 20px;
+    }
+    .pricing_text, .how_text {
+        font-size: 14px;
+        padding-bottom: 40px;
+    }
+    .step_block {
+        width: 290px;
+        margin: 10px 0 40px;
+        padding: 10px;
+    }
+    .arrow {
+        display: none;
+    }
+    .step_title {
+        padding: 10px 0;
+    }
+    .step_button_box {
+        margin-top: 0;
+    }
+    .newsletter_text {
+        font-size: 14px;
+    }
+    .newsletter_address {
+        height: 400px;
+    }
+}

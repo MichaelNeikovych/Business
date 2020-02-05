@@ -1,0 +1,5 @@
+@media (max-width: 636px) {
+    .client_review_block:nth-child(odd) {
+        margin-right: 0;
+    }
+}

@@ -1,0 +1,84 @@
+@media (max-width: 1220px) {
+    .container {
+        max-width: 950px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .nav_links {
+        font-size: 12px;
+        padding: 8px 8px;
+    }
+    .boost {
+        padding-top: 105px;
+        font-size: 25px;
+        line-height: 28px;
+    }
+    .boost_text {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .input_block {
+        margin-bottom: 15px;
+    }
+
+
+    .about_us {
+        min-height: 420px;
+    }
+    .about_us-description {
+        max-width: 600px;
+        margin-left: calc(50% + 20px);
+        transform: translateY(40px)
+    }
+    .about_us-title {
+        text-align: center;
+    }
+
+    .price {
+        padding: 50px 0 70px;
+    }
+    .pricing_text {
+        padding-bottom: 30px;
+    }
+    .pricing_card_wrap {
+        text-align: center;
+    }
+    .pricing_card {
+        width: 250px;
+        height: 400px;
+        padding: 20px 10px;
+    }
+    .how {
+        padding: 50px 0 50px;
+    }
+    .step_block {
+        width: 150px;
+        margin-top: 10px;
+        margin-right: 50px;
+    }
+    .arrow {
+        right: -60%;
+    }
+    .clients {
+        padding: 50px 0;
+    }
+    .client_review_block_wrap {
+        text-align: center;
+    }
+    .client_review_block {
+        margin-right: 0;
+    }
+    .newsletter {
+        padding: 50px 0 50px;
+    }
+    .newsletter_form_name, .newsletter_form_email {
+        width: 300px;
+    }
+    .newsletter_address {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .newsletter .header_form {
+        padding-bottom: 45px;
+    }
+}
